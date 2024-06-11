@@ -90,6 +90,6 @@ Feel free to submit issues or pull requests if you have suggestions for improvem
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any inquiries or support, please contact your-email@example.com.
+For any inquiries or support, please contact hello@cosminirimescu.com.
 
 Happy coding! Let's make our applications smarter with ChatGPT and .NET. For the full article in Italian, visit cosminirimescu.com.
